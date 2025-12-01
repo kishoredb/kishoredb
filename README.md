@@ -6,7 +6,8 @@ My work focuses on designing reproducible, scalable, research-grade computationa
 
 I combine industry-scale engineering with research-oriented methods, emphasizing model explainability, numerical reliability, and transparent computational workflows compatible with academic standards.
 
-<img src="./kishoredb-research/assets/Brain.png"/> Core Research & Technical Interests
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Brain.png" width="100%" />
+ Core Research & Technical Interests
 Scientific Machine Learning (SciML)
 
 Physics-informed learning
