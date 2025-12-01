@@ -1,96 +1,137 @@
-# 👋 Hi, I'm Kishore D. B.  
-### *Engineering Director • AI Platforms • Scientific ML • Cloud-Native Computational Systems*
+👋 Hi, I'm Kishore D. B.
+Applied AI • Scientific Machine Learning • Computational Systems Engineering
 
-I architect and build **AI-driven computational platforms** that combine machine learning, numerical simulation, optimization, and distributed cloud-native infrastructure.  
-My work spans **applied research**, **scientific computing**, and **enterprise-scale engineering**, enabling complex analytical workflows across fintech, healthcare, and large-scale AI environments.
+I am an independent researcher and engineering leader working at the intersection of scientific ML, computational modeling, and cloud-native AI infrastructure.
+My work focuses on designing reproducible, scalable, research-grade computational systems that support simulation workflows, ML pipelines, and data-driven decision systems across domains such as finance, healthcare, and scientific computing.
 
-I focus on designing **reproducible, scalable, research-grade systems** that bridge engineering and computational science.
+I combine industry-scale engineering with research-oriented methods, emphasizing model explainability, numerical reliability, and transparent computational workflows compatible with academic standards.
 
----
+🧠 Core Research & Technical Interests
+Scientific Machine Learning (SciML)
 
-## 🧠 Core Expertise
-- **AI & ML:** scientific ML, optimization, representation learning, XAI  
-- **Computational Systems:** simulation pipelines, HPC workflows, distributed systems  
-- **Platform Engineering:** cloud-native architectures, scalability, DevSecOps, API ecosystems  
-- **ML Infrastructure:** distributed training, MLOps, inference backends  
-- **Applied Research:** healthcare analytics, lending intelligence, process modeling  
+Physics-informed learning
 
----
+Inverse modeling & parameter estimation
 
-## 🚀 Selected Engineering & Research Contributions
+Numerical optimization & model calibration
 
-### **🧮 Computational AI Platform — Finastra**  
-Designed and led the architecture of a cloud-native AI platform used by **3,400+ financial institutions** for prediction, simulation, optimization, and risk intelligence.
+Explainable ML for simulation workflows
 
-### **🔍 AI-Driven Lending Decision Engines**  
-Explainable ML models and rule-driven automation powering global retail and corporate lending workflows.
+Computational Systems
 
-### **🧬 Healthcare ML & Clinical Analytics**  
-Risk scoring models, medical NLP modules, and predictive clinical decision-support tools.
+Simulation pipelines & experiment orchestration
 
-👉 Full research index below ⬇️
+Distributed training and scalable inference
 
----
+Cloud-native HPC-like workflows
 
-# 🗂️ Research Portfolio Navigator  
-A complete index of my research repositories, documentation, and structured works.
+Data flow engineering & research infrastructure
 
-| Category | Link |
-|---------|------|
-| **Research Portfolio (Main Repository)** | https://github.com/kishoredb/kishoredb-research |
-| **Selected Works (High-impact contributions)** | https://github.com/kishoredb/kishoredb-research/blob/main/selected-works.md |
-| **Supporting Works (Case studies, prototypes, notes)** | https://github.com/kishoredb/kishoredb-research/blob/main/supporting-works.md |
-| **Publications Index** | https://github.com/kishoredb/kishoredb-research/blob/main/publications.md |
-| **Talks & Presentations** | https://github.com/kishoredb/kishoredb-research/blob/main/talks.md |
-| **Patents & Invention Disclosures** | https://github.com/kishoredb/kishoredb-research/blob/main/patents.md |
-| **Technical Projects** | https://github.com/kishoredb/kishoredb-research/blob/main/tech-projects.md |
-| **Metadata Files (JSON)** | https://github.com/kishoredb/kishoredb-research |
+Applied AI
 
----
+Clinical prediction & medical NLP
 
-# 📚 Publications & Research Areas
+Risk modeling & decision intelligence
 
-My research and engineering focus includes:
+Time-series analytics & anomaly detection
 
-- AI for healthcare and clinical analytics  
-- ML for numerical optimization  
-- Scientific computing & simulation workflows  
-- Cloud-native research infrastructure  
-- High-availability platform architectures  
+Engineering & Architecture
 
-For complete documents:  
-📄 Publications Index → https://github.com/kishoredb/kishoredb-research/blob/main/publications.md  
-📦 JSON indexes → inside `kishoredb-research/` root
+Platform design & R&D frameworks
 
----
+API ecosystems & microservices
 
-# 💼 Industry Experience
+Cloud-native system design
 
-### **Director – Software Engineering (AI & Lending Platforms)**  
-**Finastra — Global R&D** (2016–2023)
+Large-scale computational data pipelines
 
-- Led engineering teams building cloud-native computational AI systems  
-- Directed a **Computational AI Center of Excellence**  
-- Designed platform architecture adopted across multiple business units  
-- Collaborated with academic research partners on applied ML and simulation workloads  
+🚀 Selected Engineering & Research Contributions
+Computational AI Platform (Finastra — Global R&D)
 
-*Full CV available upon request.*
+Designed and co-led a cloud-native platform integrating ML, simulation engines, explainability layers, and automated model governance.
+The platform supports predictive analytics, optimization workflows, and reproducible research pipelines used across multiple product lines.
 
----
+Scientific ML for Simulation & Modeling
 
-# 🌐 External Profiles
+Developed prototypes and workflows for simulation-informed ML, including inverse modeling, feature extraction, and explainable parameter studies.
 
-- **ORCID:** https://orcid.org/0009-0003-3116-5000  
-- **GitHub Research Portfolio:** https://github.com/kishoredb/kishoredb-research  
-- **LinkedIn:** Available on request  
-- **Research PDFs:** See `/docs` folder in respective repositories  
+Healthcare ML & Clinical Analytics
 
----
+Worked on clinical risk scoring, structured clinical NLP, and explainable predictive models supporting diagnostic and outcome-monitoring workflows.
 
-# 📬 Contact  
-**Email:** kishoredb@gmail.com  
+AI-Driven Lending Decision Systems
 
-Open to collaborations in **AI platforms**, **scientific ML**, **numerical computing**, **optimization**, and **research-driven system architecture**.
+Architected transparent ML pipelines for credit risk profiling, adjudication reasoning, and document intelligence used in global lending processes.
 
----
+🗂️ Research Portfolio Navigator
+Category	Link
+Research Portfolio (Main Repository)	https://github.com/kishoredb/kishoredb-research
 
+Selected Works	https://github.com/kishoredb/kishoredb-research/blob/main/selected-works.md
+
+Supporting Works	https://github.com/kishoredb/kishoredb-research/blob/main/supporting-works.md
+
+Publications Index	https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
+
+Talks & Presentations	https://github.com/kishoredb/kishoredb-research/blob/main/talks.md
+
+Patents & Disclosures	https://github.com/kishoredb/kishoredb-research/blob/main/patents.md
+
+Technical Projects	https://github.com/kishoredb/kishoredb-research/blob/main/tech-projects.md
+
+Metadata (JSON)	https://github.com/kishoredb/kishoredb-research
+
+This navigator is designed to support doctoral evaluations, research portfolio reviews, and industry R&D assessments.
+
+📚 Publications & Research Areas
+
+My research work spans:
+
+Scientific ML and simulation-aware modeling
+
+Model explainability and decision transparency
+
+Numerical optimization and computational analysis
+
+Clinical ML and applied healthcare analytics
+
+Research-oriented data and ML engineering
+
+See full index:
+📄 Publications:
+https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
+
+📦 Machine-readable JSON metadata:
+Inside the root of the research repository.
+
+💼 Professional Background
+Director – Software Engineering (AI & Lending Platforms)
+
+Finastra — Global R&D (2016–2023)
+
+Led engineering teams building cloud-native computational AI services
+
+Developed simulation, optimization, and ML workflows for enterprise systems
+
+Directed a Computational AI Center of Excellence
+
+Collaborated with universities and research partners on applied ML and computational methods
+
+Designed platform architectures adopted across multiple product groups
+
+My industry background supports research that is empirically grounded, reproducible, and scalable.
+
+🌐 External Profiles
+
+ORCID: https://orcid.org/0009-0003-3116-5000
+
+GitHub Research Portfolio: https://github.com/kishoredb/kishoredb-research
+
+LinkedIn: Available on request
+
+📬 Contact
+
+📧 kishoredb@gmail.com
+
+Open to collaborations in:
+scientific ML, computational modeling, AI platforms, numerical optimization, and research-driven systems engineering.
