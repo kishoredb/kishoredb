@@ -101,7 +101,7 @@ See full index:
 📄 Publications:
 https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
 
-<img src="./assets/Package.JPG" width="24" /> Machine-readable JSON metadata:
+<img src="../assets/Package.JPG" width="24" /> Machine-readable JSON metadata:
 Inside the root of the research repository.
 
 <img src="./assets/Professional.JPG" width="24" /> Professional Background
