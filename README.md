@@ -1,4 +1,4 @@
-<img src="./assets/Handwave.JPG" width="24" /> Hi, I'm Kishore D. B.
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Handwave.JPG" width="40" /> Hi, I'm Kishore D. B.
 Applied AI • Scientific Machine Learning • Computational Systems Engineering
 
 I am an independent researcher and engineering leader working at the intersection of scientific ML, computational modeling, and cloud-native AI infrastructure.
@@ -45,7 +45,7 @@ Cloud-native system design
 
 Large-scale computational data pipelines
 
-<img src="./assets/Rocket.JPG" width="24" /> Selected Engineering & Research Contributions
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Rocket.JPG" width="40" /> Selected Engineering & Research Contributions
 Computational AI Platform (Finastra — Global R&D)
 
 Designed and co-led a cloud-native platform integrating ML, simulation engines, explainability layers, and automated model governance.
@@ -63,7 +63,7 @@ AI-Driven Lending Decision Systems
 
 Architected transparent ML pipelines for credit risk profiling, adjudication reasoning, and document intelligence used in global lending processes.
 
-<img src="./assets/Folder.JPG" width="24" /> Research Portfolio Navigator
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Folder.JPG" width="40" /> Research Portfolio Navigator
 Category	Link
 Research Portfolio (Main Repository)	https://github.com/kishoredb/kishoredb-research
 
@@ -83,7 +83,7 @@ Metadata (JSON)	https://github.com/kishoredb/kishoredb-research
 
 This navigator is designed to support doctoral evaluations, research portfolio reviews, and industry R&D assessments.
 
-<img src="./assets/Books.JPG" width="24" /> Publications & Research Areas
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Books.JPG" width="40" /> Publications & Research Areas
 
 My research work spans:
 
@@ -101,10 +101,10 @@ See full index:
 📄 Publications:
 https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
 
-<img src="../assets/Package.JPG" width="24" /> Machine-readable JSON metadata:
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Package.JPG" width="40" /> Machine-readable JSON metadata:
 Inside the root of the research repository.
 
-<img src="./assets/Professional.JPG" width="24" /> Professional Background
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Professional.JPG" width="40" /> Professional Background
 Director – Software Engineering (AI & Lending Platforms)
 
 Finastra — Global R&D (2016–2023)
@@ -121,7 +121,7 @@ Designed platform architectures adopted across multiple product groups
 
 My industry background supports research that is empirically grounded, reproducible, and scalable.
 
-<img src="./assets/Globe.JPG" width="24" /> External Profiles
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Globe.JPG" width="40" /> External Profiles
 
 ORCID: https://orcid.org/0009-0003-3116-5000
 
@@ -129,9 +129,9 @@ GitHub Research Portfolio: https://github.com/kishoredb/kishoredb-research
 
 LinkedIn: Available on request
 
-<img src="./assets/Mailbox.JPG" width="24" /> Contact
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Mailbox.JPG" width="40" /> Contact
 
-<img src="./assets/Email.JPG" width="24" /> kishoredb@gmail.com
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Email.JPG" width="40" /> kishoredb@gmail.com
 
 Open to collaborations in:
 scientific ML, computational modeling, AI platforms, numerical optimization, and research-driven systems engineering.
