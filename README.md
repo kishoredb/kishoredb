@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Handwave.JPG" width="40" />  
 
 # **Hi, I'm Kishore D. B.**  
-### **Applied AI • Scientific Machine Learning • Computational Systems Engineering**
+## **Applied AI • Scientific Machine Learning • Computational Systems Engineering**
 
 I am an independent researcher and engineering leader working at the intersection of **scientific ML**, **computational modeling**, and **cloud-native AI infrastructure**.
 
@@ -14,24 +14,24 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Brain.JPG" width="50" />  
 ### **Core Research & Technical Interests**
 
-### **Scientific Machine Learning (SciML)**
+## **Scientific Machine Learning (SciML)**
 - Physics-informed learning  
 - Inverse modeling & parameter estimation  
 - Numerical optimization & calibration  
 - Explainable ML for simulation workflows  
 
-### **Computational Systems**
+## **Computational Systems**
 - Simulation pipelines & experiment orchestration  
 - Distributed training and scalable inference  
 - Cloud-native HPC-like workflows  
 - Research data engineering & infrastructure  
 
-### **Applied AI**
+## **Applied AI**
 - Clinical prediction & medical NLP  
 - Risk modeling & decision intelligence  
 - Time-series analytics & anomaly detection  
 
-### **Engineering & Architecture**
+## **Engineering & Architecture**
 - Platform design & R&D frameworks  
 - API ecosystems & microservices  
 - Cloud-native system design  
@@ -42,19 +42,19 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Rocket.JPG" width="50" />  
 ### **Selected Engineering & Research Contributions**
 
-### **Computational AI Platform (Finastra — Global R&D)**
+## **Computational AI Platform (Finastra — Global R&D)**
 Designed and co-led a cloud-native platform integrating ML, simulation engines, explainability layers, and automated governance.  
 Supports prediction, optimization, and reproducible research across multiple product lines.
 
-### **Scientific ML for Simulation & Modeling**
+## **Scientific ML for Simulation & Modeling**
 Developed workflows for simulation-informed ML, inverse modeling, feature extraction,  
 and explainable parameter studies.
 
-### **Healthcare ML & Clinical Analytics**
+## **Healthcare ML & Clinical Analytics**
 Worked on interpretable clinical risk scoring, structured clinical NLP,  
 and outcome-monitoring pipelines.
 
-### **AI-Driven Lending Decision Systems**
+## **AI-Driven Lending Decision Systems**
 Architected transparent ML pipelines for credit risk profiling,  
 adjudication reasoning, and document intelligence used globally.
 
