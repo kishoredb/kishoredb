@@ -11,8 +11,8 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Brain.JPG" width="40" />  
-## **Core Research & Technical Interests**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Brain.JPG" width="50" />  
+### **Core Research & Technical Interests**
 
 ### **Scientific Machine Learning (SciML)**
 - Physics-informed learning  
@@ -39,8 +39,8 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Rocket.JPG" width="40" />  
-## **Selected Engineering & Research Contributions**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Rocket.JPG" width="50" />  
+### **Selected Engineering & Research Contributions**
 
 ### **Computational AI Platform (Finastra — Global R&D)**
 Designed and co-led a cloud-native platform integrating ML, simulation engines, explainability layers, and automated governance.  
@@ -60,8 +60,8 @@ adjudication reasoning, and document intelligence used globally.
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Folder.JPG" width="40" />  
-## **Research Portfolio Navigator**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Folder.JPG" width="50" />  
+### **Research Portfolio Navigator**
 
 | **Category** | **Link** |
 |--------------|----------|
@@ -79,8 +79,8 @@ This navigator is designed for **doctoral evaluations**,
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Books.JPG" width="40" />  
-## **Publications & Research Areas**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Books.JPG" width="50" />  
+### **Publications & Research Areas**
 
 My research spans:
 
@@ -95,16 +95,16 @@ https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Package.JPG" width="40" />  
-## **Machine-Readable Metadata**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Package.JPG" width="50" />  
+### **Machine-Readable Metadata**
 
 JSON indexes for automated processing are available in the  
 root of the Research Repository.
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Professional.JPG" width="40" />  
-## **Professional Background**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Professional.JPG" width="50" />  
+### **Professional Background**
 
 ### **Director – Software Engineering (AI & Lending Platforms)**  
 **Finastra — Global R&D (2016–2023)**  
@@ -120,8 +120,8 @@ My industry background supports research that is **empirically grounded**,
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Globe.JPG" width="40" />  
-## **External Profiles**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Globe.JPG" width="50" />  
+### **External Profiles**
 
 - **ORCID:** https://orcid.org/0009-0003-3116-5000  
 - **Research Portfolio:** https://github.com/kishoredb/kishoredb-research  
@@ -129,10 +129,10 @@ My industry background supports research that is **empirically grounded**,
 
 ---
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Mailbox.JPG" width="40" />  
-## **Contact**
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Mailbox.JPG" width="50" />  
+### **Contact**
 
-<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Email.JPG" width="40" />  
+<img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Email.JPG" width="50" />  
 **kishoredb@gmail.com**
 
 Open to collaborations in **scientific ML**, **computational modeling**,  
