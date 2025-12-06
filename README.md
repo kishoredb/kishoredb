@@ -12,6 +12,7 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Brain.JPG" width="50" />  
+
 ## **Core Research & Technical Interests**
 
 ### **Scientific Machine Learning (SciML)**
@@ -40,6 +41,7 @@ I combine industry-scale engineering with research-oriented methods, emphasizing
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Rocket.JPG" width="50" />  
+
 ## **Selected Engineering & Research Contributions**
 
 ### **Computational AI Platform (Finastra — Global R&D)**
@@ -61,6 +63,7 @@ adjudication reasoning, and document intelligence used globally.
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Folder.JPG" width="50" />  
+
 ## **Research Portfolio Navigator**
 
 | **Category** | **Link** |
@@ -80,6 +83,7 @@ This navigator is designed for **doctoral evaluations**,
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Books.JPG" width="50" />  
+
 ## **Publications & Research Areas**
 
 My research spans:
@@ -96,6 +100,7 @@ https://github.com/kishoredb/kishoredb-research/blob/main/publications.md
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Package.JPG" width="50" />  
+
 ## **Machine-Readable Metadata**
 
 JSON indexes for automated processing are available in the  
@@ -104,6 +109,7 @@ root of the Research Repository.
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Professional.JPG" width="50" />  
+
 ## **Professional Background**
 
 ### **Director – Software Engineering (AI & Lending Platforms)**  
@@ -121,6 +127,7 @@ My industry background supports research that is **empirically grounded**,
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Globe.JPG" width="50" />  
+
 ## **External Profiles**
 
 - **ORCID:** https://orcid.org/0009-0003-3116-5000  
@@ -130,6 +137,7 @@ My industry background supports research that is **empirically grounded**,
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Mailbox.JPG" width="50" />  
+
 ## **Contact**
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Email.JPG" width="50" />  
