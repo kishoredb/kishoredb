@@ -124,6 +124,11 @@ root of the Research Repository.
 My industry background supports research that is **empirically grounded**,  
 **reproducible**, and **scalable**.
 
+📘 **Extended Domain Expertise**  
+For detailed experience across lending, compliance, security, and global delivery, see:  
+➡️ [Domain Expertise — Lending, Compliance & Security](https://github.com/kishoredb/kishoredb-research/blob/main/domain-expertise.md)
+
+
 ---
 
 <img src="https://raw.githubusercontent.com/kishoredb/kishoredb-research/main/assets/Globe.JPG" width="50" />  
