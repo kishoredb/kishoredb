@@ -126,7 +126,7 @@ My industry background supports research that is **empirically grounded**,
 
 📘 **Extended Domain Expertise**  
 For detailed experience across lending, compliance, security, and global delivery, see:  
-➡️ [Domain Expertise — Lending, Compliance & Security](https://github.com/kishoredb/kishoredb-research/blob/main/domain-expertise.md)
+➡️ [Domain Expertise — Lending, Compliance, Security & Global Delivery](https://github.com/kishoredb/kishoredb-research/blob/main/domain-expertise.md)
 
 
 ---
